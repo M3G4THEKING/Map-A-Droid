@@ -14,3 +14,4 @@ requests
 s2sphere
 Imagehash
 mysql
+django>=4.2.14 # not directly required, pinned by Snyk to avoid a vulnerability
