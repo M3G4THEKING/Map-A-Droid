@@ -5,8 +5,6 @@
 #   docker run -d mad startWalker.py -oo  # Launch Screenshot Processing
 #   docker run -d mad startWalker.py -wm  # Launch MAdmin
 
-FROM python:3.13.0a3-slim
-
 # Default port the webserver runs on
 EXPOSE 5000
 
