@@ -15,3 +15,4 @@ s2sphere
 Imagehash
 mysql
 pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+django>=4.2.28 # not directly required, pinned by Snyk to avoid a vulnerability
